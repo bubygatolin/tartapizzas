@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;;
+}
+
+body{
+  background: #831601;
+}
+
+h1,
+h4,
+p,
+a {
+  color: #883943;
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: #883943;
+  color: #F1D6CF;
+  border: 1px solid #883943;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-light {
+  background-color: transparent;
+  color: #883943;
+}
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #883943;
+  transition: 0.3s;
+}
+.whats-link{
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 15px;
+  right: 15px;
+  background-color: rgba(37, 211, 102, 0.8);
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 1px 1px 2px #888;
+  z-index: 1000;
+}
+.fa-whats{
+  margin-top: 10px;
+}
