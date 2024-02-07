@@ -8,34 +8,34 @@ const PricingCard = () => {
     <div className='pricing'>
         <div className='card-container'>
             <div className='card'>
-                <h3>Flores</h3>
+                <h3>Pizzas Recheadas</h3>
                 <span className='bar'></span>
-                <p className='btc'> À partir de  <br />R$ 49,90 </p>
-                <p>Buquê de Rosas</p>
-                <p>Flore Boca de Leão</p>
-                <p>Cravos</p>
+                <p className='btc'> À partir de  <br />R$ 19,90 </p>
+                <p>Mussarela</p>
+                <p>Calabreza</p>
+                <p>Diersos Sabores</p>
                 <Link to='/contato' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                
             </div>
             <div className='card'>
-                <h3>Cestas</h3>
+                <h3>Massa Pronta</h3>
                 <span className='bar'></span>
-                <p className='btc'> À partir de  <br />R$ 99,90 </p>
-                <p>Cestas Café</p>
-                <p>Cestas Dias Especias</p>
-                <p>Cestas Fitness</p>
+                <p className='btc'> À partir de  <br />R$ 14,90 </p>
+                <p>Massa pré-assada</p>
+                <p>Recheie em casa</p>
+                <p>Massa integral e Crostini</p>
                 <Link to='/contato' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                
             </div>
             <div className='card'>
-                <h3>Personalizados</h3>
+                <h3>Kits 3 produtos</h3>
                 <span className='bar'></span>
-                <p className='btc'> À partir de <br />R$ 119,90 </p>
-                <p>Queijo e Vinho</p>
-                <p>Flores e Vinho</p>
-                <p>Chocolates e Ursinho</p>
+                <p className='btc'> À partir de <br />R$ 44,90 </p>
+                <p>Monte seu Kit</p>
+                <p>Massas, Molho</p>
+                <p>pizza recheada e Crostini</p>
                 <Link to='/contato' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                

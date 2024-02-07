@@ -9,7 +9,7 @@ const Presentes = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg2 heading='EVENTOS.' text='Surpresas LeBru'/>
+      <HeroImg2 heading='EVENTOS.' text='Tarta Pizzas'/>
       <EventContent />
       <Footer />
     </div>

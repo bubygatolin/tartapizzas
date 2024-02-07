@@ -57,7 +57,7 @@
         left: -100%;
         z-index: -3;
         transition: 0.3s;
-        opacity: 0.9;
+        opacity: 1;
     }
     .nav-menu.active    {
         left: 0;

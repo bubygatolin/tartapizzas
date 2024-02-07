@@ -3,15 +3,15 @@ import './EventContentStyles.css';
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-import Event1 from '../assets/event1.jpg';
-import Event2 from '../assets/event2.jpg';
+import Event1 from '../assets/logo.jpeg';
+import Event2 from '../assets/pizza.jpg';
 
 const EventContent = () => {
   return (
     <div className='event'>
         <div className='left'>
-            <h1>Nossos Eventos</h1>
-            <p>Decoração de festas e mesas. Mesa posta, arranjos florais, jantares, festas, mini eventos. Consultoria, personalização e material. Será um prazer atender você!</p>
+            <h1 style={{color:'#e1dada'}}>Nossos Eventos</h1>
+            <p style={{color:'#e1dada'}}>Fazemos seu evento com as melhores pizzas de SP!!! Faça um orçamento!</p>
             <Link to={'/contato'}>
                 <button className='btn'>Contato</button>
             </Link>

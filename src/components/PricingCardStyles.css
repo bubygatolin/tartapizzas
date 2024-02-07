@@ -1,7 +1,7 @@
 .pricing{
     width: 100%;
     padding: 6rem 1rem;
-    background-color:  rgba(224, 187, 187, 0.9);
+    background-color:  rgba(133, 59, 59, 0.9);
 }
 .card-container{
     max-width: 1140px;
@@ -11,13 +11,13 @@
     gap: 40px ;
 }
 .card{
-    border: 1px solid #883943;
-    color:#883943;
+    border: 1px solid #997979;
+    color:#e1dada;
     text-align: center;
     padding: 1rem;
 }
 .card:hover{
-    background-color:#F1D6CF;
+    background-color:#8b5c51;
 }
 .card h3{
     font-size: 1.8rem;
@@ -27,6 +27,7 @@
 }
 .card p{
     padding: 10px 0;
+    color: #e1dada;
 }
 .bar{
     border-bottom: 1px solid #883943;

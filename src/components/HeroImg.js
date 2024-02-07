@@ -12,7 +12,7 @@ const HeroImg = () => {
             <img className='into-img' src={IntroImg} alt='IntroImg' />
         </div>
         <div className='content'>
-            <h1>Pizza Fermentação Natural</h1>
+            <h1>Pizza Longa Fermentação!!!</h1>
             <p>▪️Pizza Clássica Italiana, individuais 25cm.<br></br>
               ▪️24h de fermentação/maturação.<br></br>
               ▪️Eventos na sua casa/trabalho/lazer.<br></br>
