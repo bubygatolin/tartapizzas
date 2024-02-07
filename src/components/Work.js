@@ -9,7 +9,7 @@ import React from 'react'
 const Work = () => {
   return (
     <div className='work-container'>
-        <h1 className='product-heading'>Produtos</h1>
+        <h1 style={{color:'#e1dada'}} className='product-heading'>Nossas Pizzas</h1>
         <div className='product-container'>
             {WorkCardData.map((val, ind) => {
                 return(

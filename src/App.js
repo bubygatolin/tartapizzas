@@ -18,7 +18,7 @@ function App(){
     return(
         <>
 
-            <a className="whats-link" href='https://wa.me/5511960814261/'> <FaWhatsapp className="fa-whats"
+            <a className="whats-link" href='https://wa.me/5511981081390/'> <FaWhatsapp className="fa-whats"
                 size={40} 
                 /></a>
             <Routes>

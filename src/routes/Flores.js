@@ -12,7 +12,7 @@ const Flores = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg2 heading='PIZZAS!!!' text='Pizzas Napolitanas e Massas'/>
+      <HeroImg2 heading='PIZZAS!!!' text='Pizzas Longa Fermentação e Massas'/>
       <Work />
       <PricingCard />
       <Footer />

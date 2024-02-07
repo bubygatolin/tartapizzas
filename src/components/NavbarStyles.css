@@ -59,6 +59,7 @@
         transition: 0.3s;
         opacity: 1;
     }
+    
     .nav-menu.active    {
         left: 0;
     }
@@ -70,8 +71,14 @@
         
     }
     .hamburger{
-        display: initial;
+        display: initial;       
        
-       
+    }
+    .logo-header{
+        max-width: 340px;
+        margin-top: 2rem;
+        height: 150px;
+        width: 150px;
+        
     }
 }
