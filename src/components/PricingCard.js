@@ -14,7 +14,7 @@ const PricingCard = () => {
                 <p>Mussarela</p>
                 <p>Calabreza</p>
                 <p>Diersos Sabores</p>
-                <Link to='/contato' className='btn'>
+                <Link to='https://wa.me/5511981081390/' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                
             </div>
@@ -25,7 +25,7 @@ const PricingCard = () => {
                 <p>Massa pré-assada</p>
                 <p>Recheie em casa</p>
                 <p>Massa integral e Crostini</p>
-                <Link to='/contato' className='btn'>
+                <Link to='https://wa.me/5511981081390/' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                
             </div>
@@ -36,7 +36,7 @@ const PricingCard = () => {
                 <p>Monte seu Kit</p>
                 <p>Massas, Molho</p>
                 <p>pizza recheada e Crostini</p>
-                <Link to='/contato' className='btn'>
+                <Link to='https://wa.me/5511981081390/' className='btn'>
                     FAÇA SEU PEDIDO!
                 </Link>                
             </div>

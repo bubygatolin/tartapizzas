@@ -3,8 +3,8 @@ import './EventContentStyles.css';
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-import Event1 from '../assets/logo.jpeg';
-import Event2 from '../assets/pizza.jpg';
+import Event1 from '../assets/mcrua.jpg';
+import Event2 from '../assets/event.jpg';
 
 const EventContent = () => {
   return (
@@ -12,7 +12,7 @@ const EventContent = () => {
         <div className='left'>
             <h1 style={{color:'#e1dada'}}>Nossos Eventos</h1>
             <p style={{color:'#e1dada'}}>Fazemos seu evento com as melhores pizzas de SP!!! Faça um orçamento!</p>
-            <Link to={'/contato'}>
+            <Link to={'https://wa.me/5511981081390/'}>
                 <button className='btn'>Contato</button>
             </Link>
         </div>

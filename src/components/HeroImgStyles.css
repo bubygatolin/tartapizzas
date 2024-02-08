@@ -35,13 +35,15 @@
 .hero .content h1{
     font-size: 4rem;
     padding: 0.6rem 0 1.5rem;
+    color: black;
 }
 .hero .content p{
     font-size: 2rem;
-    line-height: 40px;
+    line-height: 35px;
     text-transform:unset;
     font-family: Arial, Helvetica, sans-serif;
     color: #831601;
+    font-weight: bold;
     
 }
 .content .btn{
@@ -60,10 +62,10 @@
         
     }
     .hero .content h1{
-        font-size: 1.5rem;       
+        font-size: 1.7rem;       
     }
     .hero .content p{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     
 }

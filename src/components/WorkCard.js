@@ -16,10 +16,10 @@ const WorkCard = (props) => {
                 </div>
                 <div className='pro-btns'>
                     <NavLink to={props.view} className ='btn'>
-                        View
+                        Peça Já!
                     </NavLink>
-                    <NavLink to={'url.com'} className ='btn'>
-                        Source
+                    <NavLink to={props.view} className ='btn'>
+                        Saiba mais!
                     </NavLink>
                 </div>
             </div>

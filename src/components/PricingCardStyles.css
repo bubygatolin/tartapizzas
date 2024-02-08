@@ -1,7 +1,7 @@
 .pricing{
     width: 100%;
     padding: 6rem 1rem;
-    background-color:  rgba(133, 59, 59, 0.9);
+    background-color:  rgba(225, 218, 218, 0.9);
 }
 .card-container{
     max-width: 1140px;
@@ -9,10 +9,11 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 40px ;
+    
 }
 .card{
     border: 1px solid #997979;
-    color:#e1dada;
+    color:#8b5c51;
     text-align: center;
     padding: 1rem;
 }
@@ -27,7 +28,7 @@
 }
 .card p{
     padding: 10px 0;
-    color: #e1dada;
+    color: #8b5c51;
 }
 .bar{
     border-bottom: 1px solid #883943;

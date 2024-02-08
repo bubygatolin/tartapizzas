@@ -11,12 +11,12 @@ const Footer = () => {
                 <div className='location'>
                     <FaHome size={20} style={{color:'#e1dada', marginRight:'2rem'}}/>
                     <div>
-                        <p>São Paulo, SP · Itaim, SP · Moema, SP · Campo Belo, SP</p>
+                        <p>Vila Zelina - SP</p>
                     </div>
                 </div>
                 <div className='phone'>
                     <h4 style={{color:'#e1dada'}}> <FaPhone size={20} style={{color:'#e1dada', marginRight:'2rem'}} />                    
-                    (11) 97703-6096</h4>                 
+                    (11) 98108-1390</h4>                 
                 </div>
                 <div className='email'>
                 <a  href ="mailto:pizzastarta@gmail.com"><h4 style={{color:'#e1dada'}}> <FaMailBulk size={20} style={{color:'#e1dada', marginRight:'2rem'}} />                    
