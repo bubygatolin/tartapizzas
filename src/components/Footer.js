@@ -28,7 +28,7 @@ const Footer = () => {
                 <h4 style={{color:'#e1dada'}}>Sobre nós</h4>
                 <p style={{color:'#e1dada'}}>Trabalhamos com os melhores ingredientos do mercado, prezando pela qualidade e sabor.</p>
                 <div className='social'>    
-                <a href='/contato'> <FaMailBulk 
+                <a href="mailto:pizzastarta@gmail.com"> <FaMailBulk 
                 size={40} 
                 style={{color:'#e1dada', marginRight:'1rem'}}/></a>
                 

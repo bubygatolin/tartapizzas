@@ -8,7 +8,7 @@ import {FaWhatsapp} from 'react-icons/fa';
 
 
 import { Route, Routes } from "react-router-dom";
-import Detail from "./routes/Detail";
+
 
 
 
@@ -26,7 +26,6 @@ function App(){
                 <Route path="/flores" element={<Flores />} />
                 <Route path="/presentes" element={<Presentes />} />
                 <Route path="/contato" element={<Contato />} />
-                <Route path="/detail" element={<Detail />} />
                 
             </Routes>           
             

@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 const WorkCard = (props) => {
   return (
     <div className='product-card'>
-                <a href='/detail'>
+                <a href='https://www.instagram.com/tarta.pizzas/'>
                   <img src={props.imgsrc} alt='image' />
                 </a>
                 
@@ -18,7 +18,7 @@ const WorkCard = (props) => {
                     <NavLink to={props.view} className ='btn'>
                         Peça Já!
                     </NavLink>
-                    <NavLink to={props.view} className ='btn'>
+                    <NavLink to={'https://www.instagram.com/tarta.pizzas/'} className ='btn'>
                         Saiba mais!
                     </NavLink>
                 </div>
