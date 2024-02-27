@@ -9,6 +9,7 @@ class HeroImg2 extends Component  {
                 <div className='heading'>
                     <h1>{this.props.heading}</h1>
                     <p>{this.props.text}</p>
+                    <span>{this.props.span}</span>
                 </div>
         
             </div>

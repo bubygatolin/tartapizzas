@@ -19,7 +19,7 @@ const WorkCard = (props) => {
                         Peça Já!
                     </NavLink>
                     <NavLink to={'https://www.instagram.com/tarta.pizzas/'} className ='btn'>
-                        Saiba mais!
+                    {props.price}
                     </NavLink>
                 </div>
             </div>
